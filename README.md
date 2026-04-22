@@ -1,16 +1,20 @@
-## Hi there 👋
+Hello. Im mx.
+I like game development and language development.
 
-<!--
-**mx5330/mx5330** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I use VS Code.
 
-Here are some ideas to get you started:
+## Currently learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Go ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)
+* SQLite ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)
+* Git ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
+
+## Languages I know
+
+* Luau
+* Python(Not advanced) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
+* Lua ![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)
+
+## Contact
+
+Discord: mx5330
