@@ -17,4 +17,4 @@ I use VS Code.
 
 ## Contact
 
-Discord: mx5330
+Gmail: maxzap2006@gmail.com
